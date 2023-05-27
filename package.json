@@ -50,4 +50,7 @@
   "devDependencies": {
     "react-router-dom": "^6.11.2"
   },
+  "engines": {
+    "node": "18.x"
+  }
 }
